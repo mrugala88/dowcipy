@@ -1,4 +1,5 @@
 dowcipy
 =======
 
-same dobre prosze
+same dobre prosze 
+kurwa!
